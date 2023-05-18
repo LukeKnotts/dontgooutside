@@ -1,5 +1,5 @@
 <template>
-  <div class="phase1">
+  <div class="phase2brown">
     <TopNav />
     <div class="container">
       <p>

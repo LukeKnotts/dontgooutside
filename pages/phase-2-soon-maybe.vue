@@ -3,7 +3,7 @@
     <TopNav />
     <div class="container">
       <unfinished-buisness />
-      <p>Phase 2 Coming Soon!</p>
+      <h2>Phase 2 Coming Soon!</h2>
       <p>Maybe. If we feel like it. Probably not.</p>
       <p>
         <NuxtLink class="secret" to="thanksforplaying">Thank you</NuxtLink> for

@@ -4,9 +4,8 @@
     <div class="container">
       <p>
         Thank you for taking the time to play our game. You can head over to the
-        <NuxtLink class="secret" to="sabout">About Page</NuxtLink> to go see
-        everyone who has contributed to this project, a huge thanks from all of
-        us!
+        <NuxtLink to="about">About Page</NuxtLink> to go see everyone who has
+        contributed to this project, a huge thanks from all of us!
       </p>
       <p class="choices">
         <NuxtLink to="/a001-start">Play Again</NuxtLink>

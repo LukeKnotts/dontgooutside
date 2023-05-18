@@ -48,9 +48,14 @@ body {
   background-image: linear-gradient(rgb(234, 209, 187), rgb(186, 186, 165));
 }
 
+.phase1night {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-image: linear-gradient(rgb(199, 178, 159), rgb(124, 163, 178));
+}
+
 .phase2forest {
   font-family: Georgia, 'Times New Roman', Times, serif;
-  background-image: linear-gradient(rgb(234, 209, 187), rgb(124, 149, 124));
+  background-image: linear-gradient(rgb(234, 209, 187), rgb(142, 169, 142));
 }
 
 .phase2blue {
@@ -80,7 +85,7 @@ body {
 
 .entertainer {
   font-family: serif;
-  color: rgb(210, 145, 47);
+  color: rgb(176, 121, 39);
 }
 
 .radio715 {
@@ -120,7 +125,7 @@ body {
 
 .cookie-purplesuit {
   font-family: serif;
-  color: rgb(11, 158, 119);
+  color: rgb(10, 134, 101);
 }
 
 .question-end {
@@ -163,7 +168,7 @@ a.secret:hover {
 }
 
 .livium:hover {
-  color: rgb(33, 183, 168);
+  color: rgb(28, 151, 139);
 }
 
 p {
@@ -186,18 +191,31 @@ p.choices a {
 }
 
 h1 {
-  margin: 25px 15% 5px 10%;
+  margin: 5% 15% 5px 10%;
 }
 
 h1.errorheader {
   text-align: center;
 }
+
+h2 {
+  text-align: center;
+  margin: 5% 15% 5px 10%;
+}
+
 h3 {
-  margin: 5px 15% 5px 10%;
+  margin: 5% 15% 3% 15%;
 }
 
 h6.subtitle {
-  margin: 3px 15% 3px 8%;
+  margin: 5px 15% 3px 8%;
+  color: rgb(77, 77, 77);
+}
+
+h6.muscue {
+  margin: 5px 15% 3px 8%;
+  color: rgb(77, 77, 77);
+  text-align: center;
 }
 
 p.errortext {

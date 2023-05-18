@@ -24,6 +24,10 @@ nav {
   background: rgb(173, 163, 161);
 }
 
+.phase1night nav {
+  background: rgb(170, 161, 159);
+}
+
 .phase2forest nav {
   background: rgb(166, 183, 184);
 }
