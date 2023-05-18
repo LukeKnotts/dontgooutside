@@ -57,7 +57,7 @@
         Elkan Lee (Writing), contributed ideas that eventually led to one of the
         main stories in <em>Don't Go Outside</em>.
       </p>
-      <p>"Oh ok that's cool, what kind of quote do you need?"<br /><br /></p>
+      <p>"don't get stuck in the past!"<br /><br /></p>
 
       <img src="~/static/Images/Test Images/IMG_0817.jpeg" />
     </div>
