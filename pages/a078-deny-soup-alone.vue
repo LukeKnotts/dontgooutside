@@ -6,7 +6,7 @@
         You arn't sure you trust this man. You deny the soup, just to be same.
         The man frowns
       </p>
-      <p><span class="cheff">"Are you sure?"</span> They ask.</p>
+      <p><span class="chef">"Are you sure?"</span> They ask.</p>
       <p>They seem hurt by your refusal.</p>
       <p class="choices">
         <NuxtLink to="a056-try-soup-alone">Try the soup</NuxtLink>

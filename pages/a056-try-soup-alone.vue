@@ -4,7 +4,7 @@
     <div class="container">
       <p>
         The bowl of magnificantly smelling savory soup sits in front of you. The
-        purple-suited cheff continues watches you. You take the spoon sitting in
+        purple-suited chef continues watches you. You take the spoon sitting in
         the bowl, and wait to taste the great smelling food. But the taste never
         fills your mouth.
       </p>

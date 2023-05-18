@@ -13,21 +13,28 @@ nav {
   padding: 0.5% 0;
 }
 .home nav {
-  background: rgb(166, 175, 184);
+  background: rgb(149, 154, 160);
 }
 
 .about nav {
-  background: rgb(166, 175, 184);
+  background: rgb(160, 155, 149);
 }
 
 .phase1 nav {
   background: rgb(173, 163, 161);
 }
 
-.phase2 nav {
+.phase2forest nav {
   background: rgb(166, 183, 184);
 }
 
+.phase2blue nav {
+  background: rgb(166, 183, 184);
+}
+
+.phase2brown nav {
+  background: rgb(184, 179, 166);
+}
 .phase3 nav {
   background: rgb(177, 215, 206);
 }

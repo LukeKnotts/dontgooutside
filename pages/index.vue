@@ -2,14 +2,18 @@
   <div class="home">
     <TopNav />
     <div class="container">
-      <h1>Home Page</h1>
+      <h1>Don't Go Outside</h1>
+      <h6 class="subtitle">
+        Created by Mattison Brown, Aris Fryer, John Knotts, and Luke Knotts
+      </h6>
       <p>
-        Welcome to [Untitled CYOA Game]! Please enjoy! Just remember, if you're
-        offered a coffee, don't except it.
+        Welcome to the <em>Don't Go Outside</em> home page! I hope you enjoy the
+        silly project we've been working on! Just remember, if you're offered a
+        coffee, don't except it.
       </p>
       <p class="choices">
         <NuxtLink to="/a001-start">Play Game</NuxtLink>
-        <NuxtLink to="/about">What is CYOA Game?</NuxtLink>
+        <NuxtLink to="/about">What is <em>Don't Go Outside</em>?</NuxtLink>
       </p>
     </div>
   </div>
@@ -31,22 +35,32 @@ body {
 
 .home {
   font-family: Georgia, 'Times New Roman', Times, serif;
-  background-color: rgb(201, 211, 213);
+  background-image: linear-gradient(rgb(199, 184, 170), rgb(186, 186, 165));
 }
 
 .about {
   font-family: Georgia, 'Times New Roman', Times, serif;
-  background-color: rgb(213, 207, 201);
+  background-image: linear-gradient(rgb(199, 184, 170), rgb(186, 170, 165));
 }
 
 .phase1 {
   font-family: Georgia, 'Times New Roman', Times, serif;
-  background-color: rgb(234, 209, 187);
+  background-image: linear-gradient(rgb(234, 209, 187), rgb(186, 186, 165));
 }
 
-.phase2 {
+.phase2forest {
   font-family: Georgia, 'Times New Roman', Times, serif;
-  background-color: rgb(201, 219, 225);
+  background-image: linear-gradient(rgb(234, 209, 187), rgb(124, 149, 124));
+}
+
+.phase2blue {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-image: linear-gradient(rgb(234, 209, 187), rgb(144, 160, 168));
+}
+
+.phase2brown {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-image: linear-gradient(rgb(234, 209, 187), rgb(162, 128, 119));
 }
 
 .phase3 {
@@ -99,7 +113,7 @@ body {
   color: rgb(229, 32, 206);
 }
 
-.cheff {
+.chef {
   font-family: serif;
   color: grey;
 }
@@ -125,7 +139,7 @@ body {
 }
 
 a {
-  color: rgb(51, 143, 174);
+  color: rgb(48, 132, 160);
   text-decoration: underline;
   margin: 0% 20px 0% 20px;
 }
@@ -138,7 +152,7 @@ a.secret {
 }
 
 a:hover {
-  color: rgb(34, 112, 138);
+  color: rgb(29, 99, 122);
 }
 
 a.secret:hover {
@@ -153,7 +167,9 @@ a.secret:hover {
 }
 
 p {
-  text-indent: 10%;
+  text-indent: 0%;
+  text-align: justify;
+  text-justify: inter-word;
   margin: 20px 15% 20px 15%;
 }
 
@@ -167,6 +183,26 @@ p.choices a {
   display: inline-block;
   white-space: nowrap;
   margin-bottom: 20px;
+}
+
+h1 {
+  margin: 25px 15% 5px 10%;
+}
+
+h1.errorheader {
+  text-align: center;
+}
+h3 {
+  margin: 5px 15% 5px 10%;
+}
+
+h6.subtitle {
+  margin: 3px 15% 3px 8%;
+}
+
+p.errortext {
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 @media (max-width: 500px) {

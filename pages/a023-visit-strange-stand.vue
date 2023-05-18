@@ -13,11 +13,11 @@
         old man dressed in an odd purple suit. He welcomes you two jollily.
       </p>
       <p>
-        <span class="cheff"
-          >"Would you two like to try the amazing cheff's special? It's
+        <span class="chef"
+          >"Would you two like to try the amazing chef's special? It's
           fresh!"</span
         >
-        the cheff tells you.
+        the chef tells you.
       </p>
       <p>
         A delightful smell leaks from behind the stall's curtain. He smiles

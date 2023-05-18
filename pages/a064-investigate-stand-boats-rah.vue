@@ -13,17 +13,17 @@
         softly.
       </p>
       <p>
-        <span class="cheff">
+        <span class="chef">
           "Oh no, you two don't need any money. Since you haven't come before,
-          let me bring you the cheff's special."</span
+          let me bring you the chef's special."</span
         >
-        Chirps the cheff.
+        Chirps the chef.
       </p>
       <p>
-        The cheff winks to Rah, and steps behind the curtain before either of
-        you respond. Only a few minutes later, the man reappears smiling, with
-        two warm metal bowls in his hands. He sets the bowls down in front of
-        you and Rah, and eagerly waits for you two to try them.
+        The chef winks to Rah, and steps behind the curtain before either of you
+        respond. Only a few minutes later, the man reappears smiling, with two
+        warm metal bowls in his hands. He sets the bowls down in front of you
+        and Rah, and eagerly waits for you two to try them.
       </p>
       <p class="choices">
         <NuxtLink to="a065-investigating-stand-food">Try some soup</NuxtLink>

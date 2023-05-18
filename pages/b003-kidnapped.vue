@@ -1,7 +1,8 @@
 <template>
-  <div class="phase2">
+  <div class="phase2blue">
     <TopNav class="topnav-phase2" />
     <div class="container">
+      <unfinished-buisness />
       <p>
         Your heart pounds as you bump blindly in the back of what seems to be a
         truck. You are freaked out. Who is doing this and why?

@@ -9,19 +9,19 @@
       </p>
       <p>You ask the him what's for sale, to which they smile.</p>
       <p>
-        <span class="cheff">
-          "Oh, no need for money. Since you're new, let me bring you the cheff's
+        <span class="chef">
+          "Oh, no need for money. Since you're new, let me bring you the chef's
           special,"</span
         >
         they man chirps cheerily.
       </p>
       <!--
-        Don't worry, the cheff's special is gluten free.
+        Don't worry, the chef's special is gluten free.
         -->
       <p>
         Quickly, the man steps behind the purple curtain. You hear some
         sizziling and the clanging of pots and pans from behind the curtain. Not
-        long later, he emerges again. In the cheff's hands is moderately sized
+        long later, he emerges again. In the chef's hands is moderately sized
         thin metal bowl. He sets it on the counter in front of you, and waits
         there smiling. The soup smells amazing.
       </p>

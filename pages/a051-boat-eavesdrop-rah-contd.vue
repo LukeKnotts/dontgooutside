@@ -3,14 +3,14 @@
     <TopNav />
     <div class="container">
       <p>
-        You Rah watch the boat intently. You two want to know what is going on
-        here. Patiently, you two wait in some leafy bushes, from which you can
-        see the boat nicely.
+        You and Rah watch the boat intently. You two want to know what is going
+        on here. Patiently, you two wait in some leafy bushes, from which you
+        can see the boat nicely.
       </p>
       <p>
         The two workers begin unloading large wooden crates off of the boat.
         Most boxes have a red paint lable saying "fragile" on at least two of
-        their sides. As this is happeneing a woman dressed in similar yet more
+        their sides. As this is happening a woman dressed in similar yet more
         formal attire approaches the boat.
       </p>
       <p>

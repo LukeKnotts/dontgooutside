@@ -1,7 +1,8 @@
 <template>
-  <div class="phase2">
+  <div class="phase2forest">
     <TopNav class="topnav-phase2" />
     <div class="container">
+      <unfinished-buisness />
       <p>
         You lift up the lid of the chest. You are able to remove the heavy stone
         lid of the chest. Inside is a small wood box with similar carvings on

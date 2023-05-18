@@ -1,7 +1,8 @@
 <template>
-  <div class="phase2">
+  <div class="phase2brown">
     <TopNav class="topnav-phase2" />
     <div class="container">
+      <unfinished-buisness />
       <p>
         This is your chance to leave Chegckle and see the world. This is your
         chance to maybe do something important.

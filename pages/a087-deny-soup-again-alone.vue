@@ -2,12 +2,12 @@
   <div class="phase1">
     <TopNav />
     <div class="container">
-      <p>The cheff frowns again.</p>
+      <p>The chef frowns again.</p>
       <p>
-        <span class="cheff">"I'm so sorry to hear that,"</span> He says,
-        sounding a little bit happy.<span class="cheff"> "You know..."</span>
+        <span class="chef">"I'm so sorry to hear that,"</span> He says, sounding
+        a little bit happy.<span class="chef"> "You know..."</span>
         the man offers,
-        <span class="cheff"
+        <span class="chef"
           >"You could come behind the curtain, and I could show you how we make
           all of our delicious soups,"</span
         >

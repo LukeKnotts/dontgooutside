@@ -4,11 +4,11 @@
     <div class="container">
       <p>
         You look at Rah. They look scepticle, just like you. You decide to
-        politely turn down the soup. The old man frowns. The cheff asks,
+        politely turn down the soup. The old man frowns. The chef asks,
       </p>
       <p>
-        <span class="cheff">"Are you sure you don't want the soup?"</span> the
-        cheff sadly says.
+        <span class="chef">"Are you sure you don't want the soup?"</span> the
+        chef sadly says.
       </p>
       <p>
         You catch a negative gesture from Rah out of the corner of your eye.

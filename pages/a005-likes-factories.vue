@@ -8,7 +8,7 @@
         speeds, it all interests you.
       </p>
       <p>
-        You like the indsutrial areas of Chegckle, and learning about things in
+        You like the industrial areas of Chegckle, and learning about things in
         town. Where do you like to spend your time?
       </p>
       <p class="choices">

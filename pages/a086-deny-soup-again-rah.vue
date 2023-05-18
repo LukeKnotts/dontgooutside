@@ -2,12 +2,10 @@
   <div class="phase1">
     <TopNav />
     <div class="container">
-      <p>
-        <span class="cheff">"I'm sorry to hear that,"</span> says the cheff.
-      </p>
+      <p><span class="chef">"I'm sorry to hear that,"</span> says the chef.</p>
       <p>There is an awkward pause before they speak again.</p>
       <p>
-        <span class="cheff"
+        <span class="chef"
           >"Well, feel free to come back and try the soup."</span
         >
       </p>
