@@ -19,26 +19,28 @@
       </p>
       <p>
         "I want to add something important to this world that makes a meaningful
-        difference."<br><nbsp></nbsp></br>
+        difference."<br/>
       </p>
       <p>
         Aris Fryer (Music), is a composer and multinstrumentalist. Aris produced
         the entire soundtrack, and wrote it as well.
       </p>
-      <p>"idk what i want on my description yet"<br><nbsp></nbsp></br></p>
+      <p>"idk what i want on my description yet"<br/></p>
       <p>
         Mattison Brown (Graphics, Art), drew up all of the graphics that Luke
         edited and put into the game. Their art skills are why this game has
         some sick pics!!
       </p>
-      <p>"Idk I can think about it"<br><nbsp></nbsp></br></p>
+      <p>"Idk I can think about it"<br/></p>
       <p>Nathan Branch (<NuxtLink
           class="secret"
           to="z000-error"
           >0</NuxtLink
         >), had some ideas that were incorporated into this game. The have cool ideas.</p>
-        <p>"You don't need to credit me"</p><br><nbsp></nbsp></br></p>
+        <p>"You don't need to credit me"<br/></p>
       <p>
+
+        <p>Elkan Lee (Writing), </p>
         other people, and Nathan Branch (<NuxtLink
           class="secret"
           to="z000-error"
