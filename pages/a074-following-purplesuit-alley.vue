@@ -10,6 +10,7 @@
       </p>
       <p class="choices">
         <NuxtLink to="a084-give-up-following-market">Turn back</NuxtLink>
+        <NuxtLink to="a092-outside-too-late">Chase after them</NuxtLink>
       </p>
     </div>
   </div>

@@ -70,7 +70,7 @@ body {
 
 .phase3 {
   font-family: Georgia, 'Times New Roman', Times, serif;
-  background-color: rgb(245, 130, 197);
+  background-color: rgb(243, 170, 212);
 }
 
 .container {
@@ -180,6 +180,12 @@ p {
 
 p.choices {
   text-align: center;
+  margin-top: 50px;
+  text-indent: 0%;
+}
+
+p.choiceslist {
+  text-align: left;
   margin-top: 50px;
   text-indent: 0%;
 }

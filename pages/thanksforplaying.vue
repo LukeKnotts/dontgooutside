@@ -2,6 +2,7 @@
   <div class="phase2brown">
     <TopNav />
     <div class="container">
+      <h6 class="muscue">Thanks for Playing!</h6>
       <p>
         Thank you for taking the time to play our game. You can head over to the
         <NuxtLink to="about">About Page</NuxtLink> to go see everyone who has

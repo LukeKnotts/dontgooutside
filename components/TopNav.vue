@@ -2,6 +2,7 @@
   <nav>
     <NuxtLink to="/">Home</NuxtLink>
     <NuxtLink to="/about">About</NuxtLink>
+    <NuxtLink to="/gamehelp">Help</NuxtLink>
   </nav>
 </template>
 
@@ -12,6 +13,11 @@ nav {
   background: rgb(236, 30, 255);
   padding: 0.5% 0;
 }
+
+.alignright {
+  text-align: right;
+}
+
 .home nav {
   background: rgb(149, 154, 160);
 }
