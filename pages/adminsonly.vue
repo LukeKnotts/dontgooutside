@@ -7,10 +7,10 @@
         Well... I don't know what I can say to make you leave...
       </h6>
       <h6 class="muscue">Congrats on finding this... or something...</h6>
-      <h2>Admins Page</h2>
+      <h2>Admin's Page</h2>
       <h6 class="muscue">Which is... probably not you</h6>
       <p>Here is a list of links to (almost) all of the pages!</p>
-      <p class="choiceslist">
+      <p class="choices">
         <NuxtLink to="/">Home Page</NuxtLink>
         <NuxtLink to="/about">About Page</NuxtLink>
         <NuxtLink to="/gamehelp">Help Page</NuxtLink>

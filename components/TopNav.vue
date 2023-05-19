@@ -1,21 +1,33 @@
 <template>
   <nav>
-    <NuxtLink to="/">Home</NuxtLink>
-    <NuxtLink to="/about">About</NuxtLink>
-    <NuxtLink to="/gamehelp">Help</NuxtLink>
+    <div>
+      <NuxtLink to="/">Home</NuxtLink>
+      <NuxtLink to="/about">About</NuxtLink>
+      <div class="alignright">
+        <NuxtLink to="/gamehelp">Help</NuxtLink>
+      </div>
+    </div>
   </nav>
 </template>
 
 <style>
 nav {
   font-family: 'Roboto Slab', serif;
-  font-size: 25px;
+  font-size: 24px;
   background: rgb(236, 30, 255);
   padding: 0.5% 0;
 }
 
+@media (max-width: 700px) {
+  nav {
+    font-size: 18px;
+    padding: 0.2% 0;
+  }
+}
+
 .alignright {
-  text-align: right;
+  float: right;
+  padding: 0 3% 0.5% 0 0;
 }
 
 .home nav {

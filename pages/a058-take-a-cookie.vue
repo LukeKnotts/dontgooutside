@@ -5,7 +5,7 @@
       <p>
         Free cookies, perhaps it isn't a horrible thing. You take one of the
         cookies and take a bite from it. It tastes a little weird and your
-        stomach feels likt it does a quick summersault. A blue light from across
+        stomach feels like it does a quick summersault. A blue light from across
         the town flashes against the cookie person's face, and they smile.
         Little do you know, that will be the last cookie you ever eat. Well, now
         you do, because I just told you.

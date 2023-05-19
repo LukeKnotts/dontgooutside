@@ -2,11 +2,11 @@
   <div>
     <div class="container">
       <h1 class="errorheader">
-        5<NuxtLink class="secret" to="/z001-error"
+        Error 4<NuxtLink class="secret" to="/z000-error"
           ><span class="invisible">(</span>0<span class="invisible"
             >)</span
           ></NuxtLink
-        >2 Bad Gateway
+        >4
       </h1>
       <hr />
       <p class="errortext">
@@ -19,6 +19,6 @@
 
 <script>
 export default {
-  name: 'Z000Error',
+  name: 'Z001Error',
 }
 </script>

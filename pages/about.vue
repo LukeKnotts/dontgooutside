@@ -16,15 +16,15 @@
 
       <p class="choices">
         <NuxtLink to="/">Check out the Game!</NuxtLink>
-        <NuxtLink to="/gamehelp">Help Page</NuxtLink>
+        <NuxtLink to="/gamehelp">Help Playing</NuxtLink>
       </p>
 
       <hr />
       <h3>Credits!</h3>
       <p>
-        Luke Knotts (Desing, Writting, Coding, Music, Art) is a creative type
-        who enjoys making things. They have led development on this game, being
-        helped by some cool people.
+        <em>Luke Knotts</em> (Desing, Writting, Coding, Music, Art) is a
+        creative type who enjoys making things. They have led development on
+        this game, being helped by some cool people.
       </p>
       <p>
         "I want to add something important to this world that makes a meaningful
@@ -32,39 +32,49 @@
       </p>
 
       <p>
-        Mattison Brown (Graphics, Art), drew up all of the graphics that Luke
-        edited and put into the game. Their art skills are why this game has
-        some sick pics!!
+        <em>Mattison Brown</em> (Graphics, Art), drew up all of the graphics
+        that Luke edited and put into the game. Their art skills are why this
+        game has some sick pics!!
       </p>
       <p>"Idk I can think about it"<br /><br /></p>
 
       <p>
-        Aris Fryer (Music), is a composer and game developer. Aris produced the
-        entire soundtrack, and wrote almost all of it as well.
+        <em>Aris Fryer</em> (Music), is a composer and game developer. Aris
+        produced the entire soundtrack, and wrote almost all of it as well.
       </p>
       <p>"idk what i want on my description yet"<br /><br /></p>
 
       <p>
-        John Knotts (Coding, Design), taught Luke how to code the entirety of
-        this game. And when it came to the advanced stuff, John handled those
-        very well.
+        <em>John Knotts</em> (Coding, Design), taught Luke how to code, and set
+        up the entirety of this game. And when it came to the advanced stuff,
+        John programmed it.
       </p>
       <p>"Ha! Nice"<br /><br /></p>
 
       <p>
-        Elkan Lee (Writing), contributed ideas that eventually led to one of the
-        main stories in <em>Don't Go Outside</em>.
+        <em>Elkan Lee</em> (Writing), contributed ideas that eventually led to
+        one of the main stories in <em>Don't Go Outside</em>.
       </p>
       <p>"don't get stuck in the past!"<br /><br /></p>
 
       <p>
-        Nathan Branch (<NuxtLink class="secret" to="z000-error">0</NuxtLink>),
-        had some ideas that were incorporated into this game. The have cool
+        <em>Nathan Branch</em> (<NuxtLink class="secret" to="z000-error"
+          >0</NuxtLink
+        >), had some ideas that were incorporated into this game. They have cool
         ideas.
       </p>
       <p>"You don't need to credit me"<br /><br /></p>
 
       <img src="~assets/images/test-images/IMG_0817.jpeg" />
+
+      <hr />
+      <h3>Site Map</h3>
+      <p class="choices">
+        <NuxtLink to="/">Home Page</NuxtLink>
+        <NuxtLink to="/about">About Page (very elusive)</NuxtLink>
+        <NuxtLink to="/gamehelp">Help Page</NuxtLink>
+        <NuxtLink to="/a001-start">Title Screen</NuxtLink>
+      </p>
     </div>
   </div>
 </template>

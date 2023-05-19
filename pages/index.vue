@@ -35,7 +35,7 @@ body {
 
 .home {
   font-family: Georgia, 'Times New Roman', Times, serif;
-  background-image: linear-gradient(rgb(199, 184, 170), rgb(186, 186, 165));
+  background-image: linear-gradient(rgb(199, 184, 170), rgb(165, 180, 186));
 }
 
 .about {
@@ -144,7 +144,7 @@ body {
 }
 
 a {
-  color: rgb(48, 132, 160);
+  color: rgb(44, 118, 143);
   text-decoration: underline;
   margin: 0% 20px 0% 20px;
 }
@@ -156,8 +156,14 @@ a.secret {
   cursor: text;
 }
 
+a.inlinelink {
+  color: rgb(44, 118, 143);
+  text-decoration: underline;
+  margin: 0;
+}
+
 a:hover {
-  color: rgb(29, 99, 122);
+  color: rgb(25, 87, 108);
 }
 
 a.secret:hover {
@@ -175,19 +181,14 @@ p {
   text-indent: 0%;
   text-align: justify;
   text-justify: inter-word;
-  margin: 20px 15% 20px 15%;
+  margin: 5% 15% 5% 15%;
 }
 
 p.choices {
   text-align: center;
   margin-top: 50px;
   text-indent: 0%;
-}
-
-p.choiceslist {
-  text-align: left;
-  margin-top: 50px;
-  text-indent: 0%;
+  text-justify: left;
 }
 
 p.choices a {
@@ -206,7 +207,7 @@ h1.errorheader {
 
 h2 {
   text-align: center;
-  margin: 5% 15% 5px 10%;
+  margin: 5% 0 5px 0;
 }
 
 h3 {
@@ -219,7 +220,7 @@ h6.subtitle {
 }
 
 h6.muscue {
-  margin: 5px 15% 3px 8%;
+  margin: 5px 0 3px 0;
   color: rgb(77, 77, 77);
   text-align: center;
 }
@@ -229,10 +230,39 @@ p.errortext {
   font-family: 'Times New Roman', Times, serif;
 }
 
+p.unformatted {
+  text-align: left;
+}
+
+.invisible {
+  font-size: 1px;
+}
+
+@media (max-width: 700px) {
+  p {
+    font-size: 13px;
+    line-height: 1.6em;
+  }
+}
+
 @media (max-width: 500px) {
   p.choices a {
     display: block;
     white-space: normal;
+  }
+
+  @media (max-width: 500px) {
+    h6.subtitle {
+      font-size: 12px;
+      line-height: 1.4em;
+    }
+  }
+
+  @media (max-width: 500px) {
+    h6.muscue {
+      font-size: 12px;
+      line-height: 2em;
+    }
   }
 }
 </style>

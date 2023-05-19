@@ -11,14 +11,13 @@
       </p>
 
       <p>
-        You play the game by reading and observing what is onscreen, and
+        You can play the game by reading and observing what is onscreen, and
         clicking on the links that match what you want to do in the game. For
         example, if the screen says that there is a red door and a blue door,
         and then prompts you with the question, "which door do you want to
-        enter?" you would select the link that has the answer you like the best.
-        Maybe in this scenario it would be the red door. After clicking the
-        link, you would be taken to a new web page where the story would
-        continue.
+        enter?" you would select the link that has the answer you want. Maybe in
+        this scenario it would be the red door. After clicking the link, you
+        would be taken to a new web page where the story would continue.
       </p>
 
       <p>
