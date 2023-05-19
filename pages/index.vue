@@ -184,6 +184,12 @@ p.choices {
   text-indent: 0%;
 }
 
+p.choiceslist {
+  text-align: left;
+  margin-top: 50px;
+  text-indent: 0%;
+}
+
 p.choices a {
   display: inline-block;
   white-space: nowrap;

@@ -10,8 +10,8 @@
       </p>
       <p>
         You see the purple-dressed stranger you have been following take a turn
-        down an alley. But the turn was in the direction of the docks, where
-        their boat is.
+        down an alley. Their turn was in the direction of the docks, where their
+        boat is.
       </p>
       <p class="choices">
         <NuxtLink to="a074-following-purplesuit-alley"
