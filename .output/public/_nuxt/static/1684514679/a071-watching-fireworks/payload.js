@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a071-watching-fireworks", {data:[{}],fetch:{},mutations:void 0});

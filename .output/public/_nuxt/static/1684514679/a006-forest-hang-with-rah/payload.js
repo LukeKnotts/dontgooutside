@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a006-forest-hang-with-rah", {data:[{}],fetch:{},mutations:void 0});

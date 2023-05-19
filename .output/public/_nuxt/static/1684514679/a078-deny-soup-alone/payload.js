@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a078-deny-soup-alone", {data:[{}],fetch:{},mutations:void 0});

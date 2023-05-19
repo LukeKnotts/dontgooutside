@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a020-ignore-radio", {data:[{}],fetch:{},mutations:void 0});

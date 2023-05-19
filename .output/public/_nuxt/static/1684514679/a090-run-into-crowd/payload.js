@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a090-run-into-crowd", {data:[{}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a066-stay-with-radio-night", {data:[{}],fetch:{},mutations:void 0});

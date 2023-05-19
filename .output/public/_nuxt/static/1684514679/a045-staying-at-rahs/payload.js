@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a045-staying-at-rahs", {data:[{}],fetch:{},mutations:void 0});

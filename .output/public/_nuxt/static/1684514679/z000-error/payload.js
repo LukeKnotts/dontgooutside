@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/z000-error", {data:[{}],fetch:{},mutations:void 0});

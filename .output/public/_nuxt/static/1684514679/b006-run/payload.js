@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/b006-run", {data:[{}],fetch:{},mutations:void 0});

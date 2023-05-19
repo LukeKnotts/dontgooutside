@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a025-reject-letter", {data:[{}],fetch:{},mutations:void 0});

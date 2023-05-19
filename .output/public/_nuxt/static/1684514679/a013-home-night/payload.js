@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a013-home-night", {data:[{}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a019-avoid-stone-chest", {data:[{}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a067-late-night-entertainment-rah", {data:[{}],fetch:{},mutations:void 0});

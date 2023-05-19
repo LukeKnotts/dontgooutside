@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a043-river-with-rah", {data:[{}],fetch:{},mutations:void 0});

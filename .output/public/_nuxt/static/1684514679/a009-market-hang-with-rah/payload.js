@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a009-market-hang-with-rah", {data:[{}],fetch:{},mutations:void 0});

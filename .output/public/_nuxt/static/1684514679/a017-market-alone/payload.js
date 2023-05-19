@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a017-market-alone", {data:[{}],fetch:{},mutations:void 0});

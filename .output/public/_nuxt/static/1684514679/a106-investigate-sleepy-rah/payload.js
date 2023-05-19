@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a106-investigate-sleepy-rah", {data:[{}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a059-reject-cookie", {data:[{}],fetch:{},mutations:void 0});

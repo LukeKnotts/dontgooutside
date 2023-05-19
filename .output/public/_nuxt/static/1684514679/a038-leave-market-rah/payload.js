@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a038-leave-market-rah", {data:[{}],fetch:{},mutations:void 0});

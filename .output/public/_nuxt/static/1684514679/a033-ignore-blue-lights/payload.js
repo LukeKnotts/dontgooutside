@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a033-ignore-blue-lights", {data:[{}],fetch:{},mutations:void 0});

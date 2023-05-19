@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a055-investigate-stand-boats", {data:[{}],fetch:{},mutations:void 0});

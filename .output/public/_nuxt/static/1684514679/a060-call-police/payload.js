@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a060-call-police", {data:[{}],fetch:{},mutations:void 0});

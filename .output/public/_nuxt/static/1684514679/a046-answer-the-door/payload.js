@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a046-answer-the-door", {data:[{}],fetch:{},mutations:void 0});

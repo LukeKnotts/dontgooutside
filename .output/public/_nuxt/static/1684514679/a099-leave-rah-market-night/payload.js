@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a099-leave-rah-market-night", {data:[{}],fetch:{},mutations:void 0});

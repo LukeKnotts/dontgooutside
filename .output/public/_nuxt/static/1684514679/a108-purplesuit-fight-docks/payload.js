@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a108-purplesuit-fight-docks", {data:[{}],fetch:{},mutations:void 0});

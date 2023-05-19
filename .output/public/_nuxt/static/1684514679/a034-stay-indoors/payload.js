@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a034-stay-indoors", {data:[{}],fetch:{},mutations:void 0});

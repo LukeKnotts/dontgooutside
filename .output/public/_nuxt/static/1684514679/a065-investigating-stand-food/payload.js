@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a065-investigating-stand-food", {data:[{}],fetch:{},mutations:void 0});

@@ -64,7 +64,7 @@
       </p>
       <p>"You don't need to credit me"<br /><br /></p>
 
-      <img src="~/static/Images/Test Images/IMG_0817.jpeg" />
+      <img src="~assets/images/test-images/IMG_0817.jpeg" />
     </div>
   </div>
 </template>

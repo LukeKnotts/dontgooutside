@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a016-strange-stand-rah", {data:[{}],fetch:{},mutations:void 0});

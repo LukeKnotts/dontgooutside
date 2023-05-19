@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a084-give-up-following-market", {data:[{}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a074-following-purplesuit-alley", {data:[{}],fetch:{},mutations:void 0});

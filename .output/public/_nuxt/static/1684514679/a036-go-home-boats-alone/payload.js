@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a036-go-home-boats-alone", {data:[{}],fetch:{},mutations:void 0});

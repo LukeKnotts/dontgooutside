@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a088-ignore-fireworks-rah", {data:[{}],fetch:{},mutations:void 0});

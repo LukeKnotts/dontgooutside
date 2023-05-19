@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/b002-open-cyoa-chest", {data:[{}],fetch:{},mutations:void 0});

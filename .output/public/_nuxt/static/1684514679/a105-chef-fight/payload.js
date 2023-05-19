@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a105-chef-fight", {data:[{}],fetch:{},mutations:void 0});

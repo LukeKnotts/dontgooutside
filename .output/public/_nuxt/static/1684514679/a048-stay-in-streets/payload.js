@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a048-stay-in-streets", {data:[{}],fetch:{},mutations:void 0});

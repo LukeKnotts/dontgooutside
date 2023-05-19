@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a018-youve-got-mail", {data:[{}],fetch:{},mutations:void 0});

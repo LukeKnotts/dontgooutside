@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a070-ignore-fireworks-sleepy", {data:[{}],fetch:{},mutations:void 0});

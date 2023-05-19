@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a056-try-soup-alone", {data:[{}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a094-is-reading-urls-cheating", {data:[{}],fetch:{},mutations:void 0});

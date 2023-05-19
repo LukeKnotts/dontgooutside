@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a011-find-chest-forest", {data:[{}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a010-rah-finds-something-forest", {data:[{}],fetch:{},mutations:void 0});

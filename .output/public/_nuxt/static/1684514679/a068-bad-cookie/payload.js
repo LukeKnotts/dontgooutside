@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a068-bad-cookie", {data:[{}],fetch:{},mutations:void 0});

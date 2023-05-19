@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a085-get-off-boat-rah", {data:[{}],fetch:{},mutations:void 0});

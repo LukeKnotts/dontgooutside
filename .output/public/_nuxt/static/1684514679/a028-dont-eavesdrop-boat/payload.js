@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a028-dont-eavesdrop-boat", {data:[{}],fetch:{},mutations:void 0});

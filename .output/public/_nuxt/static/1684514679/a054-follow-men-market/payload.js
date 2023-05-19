@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a054-follow-men-market", {data:[{}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a044-after-river", {data:[{}],fetch:{},mutations:void 0});

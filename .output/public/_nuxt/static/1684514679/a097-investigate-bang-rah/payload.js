@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a097-investigate-bang-rah", {data:[{}],fetch:{},mutations:void 0});

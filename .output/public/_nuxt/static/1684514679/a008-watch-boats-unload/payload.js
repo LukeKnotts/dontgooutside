@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a008-watch-boats-unload", {data:[{}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a089-firework-show-market-rah", {data:[{}],fetch:{},mutations:void 0});

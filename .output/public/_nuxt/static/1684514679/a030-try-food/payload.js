@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a030-try-food", {data:[{}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a058-take-a-cookie", {data:[{}],fetch:{},mutations:void 0});

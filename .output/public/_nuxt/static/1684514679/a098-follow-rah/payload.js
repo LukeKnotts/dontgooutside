@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a098-follow-rah", {data:[{}],fetch:{},mutations:void 0});

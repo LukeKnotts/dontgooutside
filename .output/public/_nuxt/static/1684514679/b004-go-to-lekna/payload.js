@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/b004-go-to-lekna", {data:[{}],fetch:{},mutations:void 0});

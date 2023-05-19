@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a004-dislikes-factories", {data:[{}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a073-watch-715-boat-rah", {data:[{}],fetch:{},mutations:void 0});

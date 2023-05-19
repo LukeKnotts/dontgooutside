@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/thanksforplaying", {data:[{}],fetch:{},mutations:void 0});

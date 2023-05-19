@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/b003-kidnapped", {data:[{}],fetch:{},mutations:void 0});

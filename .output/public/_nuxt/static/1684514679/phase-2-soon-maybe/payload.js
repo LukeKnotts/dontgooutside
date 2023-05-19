@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/phase-2-soon-maybe", {data:[{}],fetch:{},mutations:void 0});

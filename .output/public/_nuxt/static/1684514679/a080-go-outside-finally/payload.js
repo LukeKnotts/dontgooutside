@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/a080-go-outside-finally", {data:[{}],fetch:{},mutations:void 0});
