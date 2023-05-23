@@ -11,7 +11,7 @@
         in purple. Rah spins around, struggling to stand upright.
       </p>
       <p>
-        <span class="rah">"What if these fireworks are toxic..."</span>Rah
+        <span class="rah">"What if these fireworks are toxic..."</span> Rah
         attempts to say, but before they can finish anything, they let out a
         massive yawn.
       </p>

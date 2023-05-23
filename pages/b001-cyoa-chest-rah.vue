@@ -13,7 +13,7 @@
         sitting patiently under the brush.
       </p>
       <p>
-        <span class="rah">"Should we try to open it?"</span> Rah asks smiling.
+        <span class="rah">"Should we try to open it?"</span> Rah asks, smiling.
       </p>
       <p class="choices">
         <NuxtLink to="phase-2-soon-maybe">Yes</NuxtLink>

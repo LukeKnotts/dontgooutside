@@ -20,7 +20,11 @@
         stairs leading downward have strange turcoise stains on them You also
         see a set of, what appears to be fireworks next to the desk. The
         fireworks seem to be hooked up to various cans of gas labeled things
-        like 'flammable,' 'corosive,' 'toxic,' and 'biohazard.'
+        like 'flammable,' 'corosive,' 'toxic,' '<NuxtLink
+          class="secret"
+          to="/z002-error"
+          >0</NuxtLink
+        >,' and 'biohazard.'
       </p>
       <p>
         Then you hear the sound of distant footsteps, followed indistinct

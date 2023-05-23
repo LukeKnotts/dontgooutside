@@ -38,6 +38,10 @@ nav {
   background: rgb(160, 155, 149);
 }
 
+.title nav {
+  background: rgb(149, 154, 160);
+}
+
 .phase1 nav {
   background: rgb(173, 163, 161);
 }

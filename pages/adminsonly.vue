@@ -64,7 +64,7 @@
         <NuxtLink to="/a047-ignore-knocking">A047</NuxtLink>
         <NuxtLink to="/a048-stay-in-streets">A048</NuxtLink>
         <NuxtLink to="/a049-firework-show-market">A049</NuxtLink>
-        <NuxtLink to="/a050-go-home-boats">A050</NuxtLink>
+        <NuxtLink to="/a050-go-home-boats-rah">A050</NuxtLink>
         <NuxtLink to="/a051-boat-eavesdrop-rah-contd">A051</NuxtLink>
         <NuxtLink to="/a052-boat-eavesdrop-alone-contd">A052</NuxtLink>
         <NuxtLink to="/a053-watch-715-boat">A053</NuxtLink>

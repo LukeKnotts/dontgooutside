@@ -18,7 +18,7 @@
         <span class="boat-worker1">
           "Do you think they're going to do those fireworks again? Those were
           incredible. You'd better not just stay below deck tonight. Soon
-          enough, when we move on with our lives, you'd'a wished you enjoyed
+          enough, when we move on with our lives, you'd'a wished you'd enjoyed
           these things while we had 'em."</span
         >
       </p>

@@ -19,6 +19,11 @@
         >
         <NuxtLink to="a067-late-night-entertainment-rah">Check it out</NuxtLink>
       </p>
+
+      <audio controls autoplay loop="true" hidden="true">
+        <source src="/music/gameplay/windowlights.mp3" type="audio/mpeg" />
+        Your browser does not support the audio element.
+      </audio>
     </div>
   </div>
 </template>

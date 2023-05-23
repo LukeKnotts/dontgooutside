@@ -22,6 +22,11 @@
         <NuxtLink to="a026-late-night-entertainment">Check it out</NuxtLink>
         <NuxtLink to="a033-ignore-blue-lights">Ignore it</NuxtLink>
       </p>
+
+      <audio controls autoplay loop="true" hidden="true">
+        <source src="/music/gameplay/windowlights.mp3" type="audio/mpeg" />
+        Your browser does not support the audio element.
+      </audio>
     </div>
   </div>
 </template>

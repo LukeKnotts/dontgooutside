@@ -43,6 +43,11 @@ body {
   background-image: linear-gradient(rgb(199, 184, 170), rgb(186, 170, 165));
 }
 
+.title {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-image: linear-gradient(rgb(199, 184, 170), rgb(51, 81, 99));
+}
+
 .phase1 {
   font-family: Georgia, 'Times New Roman', Times, serif;
   background-image: linear-gradient(rgb(234, 209, 187), rgb(186, 186, 165));
@@ -79,53 +84,54 @@ body {
 }
 
 .rah {
-  font-family: serif;
-  color: rgb(65, 153, 22);
+  font-family: 'Alkatra', cursive;
+  color: rgb(0, 0, 0);
 }
 
 .entertainer {
-  font-family: serif;
-  color: rgb(176, 121, 39);
+  font-family: 'Abril Fatface', cursive;
+  color: rgb(0, 0, 0);
 }
 
 .radio715 {
-  font-family: serif;
-  color: blue;
+  font-family: 'Rubik Pixels', cursive;
+  color: rgb(0, 0, 0);
 }
 
 .physical715 {
-  font-family: serif;
-  color: rgb(102, 102, 223);
+  font-family: 'Kanit', sans-serif;
+  color: rgb(0, 0, 0);
 }
 
 .radio51 {
-  font-family: serif;
-  color: red;
+  font-family: 'Rubik 80s Fade', cursive;
+  color: rgb(0, 0, 0);
 }
 
 .phone-fake-cop {
-  font-family: serif;
-  color: brown;
+  font-family: 'Nova Square', cursive;
+  color: rgb(0, 0, 0);
 }
 
 .boat-worker1 {
-  font-family: serif;
-  color: purple;
+  font-family: 'Gamja Flower', cursive;
+  color: rgb(0, 0, 0);
 }
 
 .boat-worker2 {
-  font-family: serif;
-  color: rgb(229, 32, 206);
+  font-family: 'Handlee', cursive;
+  color: rgb(0, 0, 0);
 }
 
 .chef {
-  font-family: serif;
-  color: grey;
+  font-size: 32px;
+  font-family: 'Tangerine', cursive;
+  color: rgb(0, 0, 0);
 }
 
 .cookie-purplesuit {
-  font-family: serif;
-  color: rgb(10, 134, 101);
+  font-family: 'Comic Neue', cursive;
+  color: rgb(0, 0, 0);
 }
 
 .question-end {
@@ -144,7 +150,7 @@ body {
 }
 
 a {
-  color: rgb(44, 118, 143);
+  color: rgb(32, 106, 130);
   text-decoration: underline;
   margin: 0% 20px 0% 20px;
 }
@@ -163,7 +169,7 @@ a.inlinelink {
 }
 
 a:hover {
-  color: rgb(25, 87, 108);
+  color: rgb(22, 77, 96);
 }
 
 a.secret:hover {
@@ -181,7 +187,7 @@ p {
   text-indent: 0%;
   text-align: justify;
   text-justify: inter-word;
-  margin: 5% 15% 5% 15%;
+  margin: 20px 15% 20px 15%;
 }
 
 p.choices {

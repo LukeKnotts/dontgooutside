@@ -4,7 +4,7 @@
     <div class="container">
       <p>
         You get to your house without anything else happening. You don't feel
-        good though so you decide to call the police. Maybe you're crazy, or
+        good though so you decide to call the police. Maybe you're crazy or
         paranoid, but you don't want to take any chances.
       </p>
       <p>
@@ -24,7 +24,7 @@
       </p>
       <p>
         You're relieved by their response. It doesn't seem like anything too bad
-        is going on. You're still on edge, but you told the authorities, and
+        is happening. You're still on edge, but you told the authorities, and
         you're not out getting involved in who knows what.
       </p>
       <p>

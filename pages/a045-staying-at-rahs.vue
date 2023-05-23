@@ -47,7 +47,7 @@
         The radio continues to make static sounds, and then stops. You can see
         Rah mouthing the word '51.'
       </p>
-      <p><span class="rah">"This is serious."</span>Rah says.</p>
+      <p><span class="rah">"This is serious."</span> Rah says.</p>
       <p>Who is 51? What is <span class="livium">livium</span>?</p>
       <p>
         <span class="rah">"Do you think you should go home?"</span> Rah says,

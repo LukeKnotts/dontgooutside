@@ -24,6 +24,11 @@
       <p class="choices">
         <NuxtLink to="b003-kidnapped">Continue</NuxtLink>
       </p>
+
+      <audio controls autoplay loop="true" hidden="true">
+        <source src="/music/gameplay/purplelullaby.mp3" type="audio/mpeg" />
+        Your browser does not support the audio element.
+      </audio>
     </div>
   </div>
 </template>
