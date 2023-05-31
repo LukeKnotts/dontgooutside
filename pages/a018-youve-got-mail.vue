@@ -15,7 +15,7 @@
         university, and for being on Roads Bay.
       </p>
       <p>
-        The inside of the letter is extremely intriguing. You've been excepted
+        The letter's contents are extremely intriguing. You've been excepted
         into the famous University of Lekna, and given a scholarship. The
         University of Lekna is a very good school and hard to get into. The fact
         that they would give a scholarship to a random person in Chegckle is

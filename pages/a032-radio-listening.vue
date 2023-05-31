@@ -18,16 +18,16 @@
       </p>
       <p>
         <span class="radio715">
-          "Good. We must now begin the h- ga- - — - ..... - ..."</span
+          "Good. We must now ready the ship's s- --- .-. .- --. ."</span
         >
         A woman's voice resopnds, but the end of their sentence is cut off by
         the radio noise.
       </p>
       <p>
         <span class="radio51">
-          "Alright. -HEY! Careful with those! We don't want anyone - - before it
-          even starts! Sorry about that - - - — — .... there will not be any
-          mistakes!"</span
+          "Alright. -HEY! Careful with those! We don't want anyone a .... ..-
+          ... -.- before it even starts! Sorry about that .. -. - . .-. .-. ..-
+          .--. - .. --- -. there will not be any mistakes!"</span
         >
         says the first voice.
       </p>

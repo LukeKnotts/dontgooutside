@@ -8,8 +8,7 @@
       <p>
         That night, after you've come home, you hear a commotion outside. You
         look out your window to see something strange. A crowd of people seems
-        to be gathering at the docks, and the an entrancing light shines from
-        it.
+        to be gathering at the docks, and an entrancing light shines from it.
       </p>
       <p class="choices">
         <NuxtLink to="a026-late-night-entertainment">Check it out</NuxtLink>
